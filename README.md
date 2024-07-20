@@ -33,6 +33,18 @@ conda create -n myenv numpy pandas matplotlib scikit-learn
 ```
 conda activate myenv
 ```
+## **Usage**
+1. **Running the Multiple Linear Regression Model:**
+   - Copy the full path of *DATASET.csv* from the same folder.
+   - Open the *MLRModel.py* from the *DataScience* folder.
+   - Paste the path in the *dataset* variable.
+   - Save and run the program.
+     
+2. **Running the Random Forest Model:**
+   - Copy the full path of *DATASET.csv* from the same folder.
+   - Open the *RFModel.py* from the *DataScience* folder.
+   - Paste the path in the *dataset* variable.
+   - Save and run the program.
 
 ## **Additional Information**
 ### **Authors:**
