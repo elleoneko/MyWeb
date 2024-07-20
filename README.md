@@ -38,14 +38,14 @@ conda activate myenv
    - Copy the full path of *DATASET.csv* from *DataScience* folder.
    - Open the *MLRModel.py* from the same folder.
    - Paste the path in the *dataset* variable.
-   - Edit the string and **add '\'** for each backslash in the path.
+   - Edit the string and **add one backslash for each backslash** in the path.
    - Save and run the program.
      
 2. **Running the Random Forest Model:**
    - Copy the full path of *DATASET.csv* from the *DataScience* folder.
    - Open the *RFModel.py* from the same folder.
    - Paste the path in the *dataset* variable.
-   - Edit the string and **add '\'** for each backslash in the path.
+   - Edit the string and **add one backslash for each backslash** in the path.
    - Save and run the program.
 
 ## **Additional Information**
