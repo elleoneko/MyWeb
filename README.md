@@ -35,15 +35,17 @@ conda activate myenv
 ```
 ## **Usage**
 1. **Running the Multiple Linear Regression Model:**
-   - Copy the full path of *DATASET.csv* from the same folder.
-   - Open the *MLRModel.py* from the *DataScience* folder.
+   - Copy the full path of *DATASET.csv* from *DataScience* folder.
+   - Open the *MLRModel.py* from the same folder.
    - Paste the path in the *dataset* variable.
+   - Edit the string and **add '\'** for each backslash in the path.
    - Save and run the program.
      
 2. **Running the Random Forest Model:**
-   - Copy the full path of *DATASET.csv* from the same folder.
-   - Open the *RFModel.py* from the *DataScience* folder.
+   - Copy the full path of *DATASET.csv* from the *DataScience* folder.
+   - Open the *RFModel.py* from the same folder.
    - Paste the path in the *dataset* variable.
+   - Edit the string and **add '\'** for each backslash in the path.
    - Save and run the program.
 
 ## **Additional Information**
